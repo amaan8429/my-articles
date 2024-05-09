@@ -10,9 +10,9 @@ tags: rust, rust-lang, rust-programming
 
 ### Welcome to the rust series , you will have all the links of all the blogs in this series :
 
-My GitHub Repository for learning Rust =
+My GitHub Repository for learning Rust = [https://github.com/amaan8429/rust](https://github.com/amaan8429/rust)
 
-1. [Why Rust and Why Not Node.js or Python?](http://abc.com)
+1. [Why Rust and Why Not Node.js or Python?](https://amaan8429.hashnode.dev/why-rust-and-why-not-nodejs-or-python-rust-series-part-1)
     
 2. [Setting up rust locally](http://abc.com) ---coming soon
     
