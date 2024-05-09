@@ -8,6 +8,8 @@ tags: rust, rust-lang
 
 ---
 
+Link to the GitHub Repository for other parts of the series = [https://github.com/amaan8429/rust](https://github.com/amaan8429/rust)
+
 ## Ease of Writing
 
 Generally, it's recommended to use Node.js or Python as your first language because they're easier to write. The reason is that they don't have type safety, meaning they don't enforce types anywhere. For example, in JavaScript, you can assign a variable as a number and then change it to a string in the next line without any errors.
